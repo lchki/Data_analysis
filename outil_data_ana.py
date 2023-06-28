@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 27 17:56:42 2023
-@author: Locos
-"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
